@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
 				const Locale('en', 'US'),
 				const Locale('es', 'ES'),
 			],
-			title: 'Material App',
+			title: 'Material App SSH',
 			// home: HomePage(),
 			initialRoute: 'home',
 			routes: getApplicationRoutes(),
